@@ -6,9 +6,9 @@ import {Outlet} from 'react-router-dom'
 function Layout() {
   return (
     <>
-    <header />
+    <Header />
     <Outlet />
-    <footer />
+    <Footer />
 
     </>
   )
