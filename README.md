@@ -26,3 +26,4 @@ cd <project-folder>
 npm install
 npm run dev
 ```
+add some new project soon.. 
